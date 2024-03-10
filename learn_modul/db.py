@@ -1,0 +1,11 @@
+urunler=[
+    {'ad':'telefon',
+    'id':'1',
+    'fiyat':7000},
+    {'ad':'tablet',
+    'id':'2',
+    'fiyat':4000},
+    {'ad':'bilgisayar',
+    'id':'3',
+    'fiyat':10000}
+]
